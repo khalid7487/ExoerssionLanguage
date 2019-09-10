@@ -14,13 +14,13 @@
     <body>
         <h1>JSP Expression Language</h1>
         <ul>
-            <li><a href="">ScopedVars Servlet</a></li>
+            <li><a href="scoped_vars">ScopedVars Servlet</a></li>
             <li><a href="">Simple BeanProperties</a></li>
             <li><a href="">Complex BeanProperties</a></li>
-            <li><a href="">BeanProperties Servlet</a></li>
+            <li><a href="bean_properties">BeanProperties Servlet</a></li>
             <li><a href="">Collections Servlet</a></li>
             <li><a href="">Conditionals Servlet</a></li>
-            <li><a href="">Implicit-object JSP</a></li>
+            <li><a href="implict_object.jsp">Implicit-object JSP</a></li>
             <li><a href="operator.jsp">operators JSP</a></li>
             <li><a href="arithmaticOperation.jsp">arithmetic JSP</a></li>
             <li><a href="templateText.jsp">templateText JSP</a></li>
