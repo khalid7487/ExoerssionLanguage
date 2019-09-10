@@ -16,7 +16,7 @@
         <ul>
             <li><a href="scoped_vars">ScopedVars Servlet</a></li>
             <li><a href="simplebean.jsp">Simple BeanProperties</a></li>
-            <li><a href="">Complex BeanProperties</a></li>
+            <li><a href="populate_servlet">Complex BeanProperties</a></li>
             <li><a href="bean_properties">BeanProperties Servlet</a></li>
             <li><a href="">Collections Servlet</a></li>
             <li><a href="">Conditionals Servlet</a></li>
