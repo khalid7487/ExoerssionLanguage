@@ -9,9 +9,22 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>ELExample</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>JSP Expression Language</h1>
+        <ul>
+            <li><a href="">ScopedVars Servlet</a></li>
+            <li><a href="">Simple BeanProperties</a></li>
+            <li><a href="">Complex BeanProperties</a></li>
+            <li><a href="">BeanProperties Servlet</a></li>
+            <li><a href="">Collections Servlet</a></li>
+            <li><a href="">Conditionals Servlet</a></li>
+            <li><a href="">Implicit-object JSP</a></li>
+            <li><a href="operator.jsp">operators JSP</a></li>
+            <li><a href="arithmaticOperation.jsp">arithmetic JSP</a></li>
+            <li><a href="templateText.jsp">templateText JSP</a></li>
+            <li><a href="">El Functions</a></li>
+        </ul>
     </body>
 </html>
