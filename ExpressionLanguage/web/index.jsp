@@ -15,7 +15,7 @@
         <h1>JSP Expression Language</h1>
         <ul>
             <li><a href="scoped_vars">ScopedVars Servlet</a></li>
-            <li><a href="">Simple BeanProperties</a></li>
+            <li><a href="simplebean.jsp">Simple BeanProperties</a></li>
             <li><a href="">Complex BeanProperties</a></li>
             <li><a href="bean_properties">BeanProperties Servlet</a></li>
             <li><a href="">Collections Servlet</a></li>

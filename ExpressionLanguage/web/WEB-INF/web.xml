@@ -8,6 +8,10 @@
         <servlet-name>BeanProperties</servlet-name>
         <servlet-class>servlet.BeanProperties</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>PopulateServlet</servlet-name>
+        <servlet-class>servlet.PopulateServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>ScopedVars</servlet-name>
         <url-pattern>/scoped_vars</url-pattern>
@@ -15,6 +19,10 @@
     <servlet-mapping>
         <servlet-name>BeanProperties</servlet-name>
         <url-pattern>/bean_properties</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>PopulateServlet</servlet-name>
+        <url-pattern>/populate_servlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
