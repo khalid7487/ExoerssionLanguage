@@ -24,7 +24,7 @@
             <li><a href="operator.jsp">operators JSP</a></li>
             <li><a href="arithmaticOperation.jsp">arithmetic JSP</a></li>
             <li><a href="templateText.jsp">templateText JSP</a></li>
-            <li><a href="">El Functions</a></li>
+            <li><a href="tagfunction.jsp">El Functions</a></li>
         </ul>
     </body>
 </html>
