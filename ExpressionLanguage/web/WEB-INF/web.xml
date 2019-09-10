@@ -12,6 +12,14 @@
         <servlet-name>PopulateServlet</servlet-name>
         <servlet-class>servlet.PopulateServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Collections</servlet-name>
+        <servlet-class>servlet.Collections</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Conditionals</servlet-name>
+        <servlet-class>servlet.Conditionals</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>ScopedVars</servlet-name>
         <url-pattern>/scoped_vars</url-pattern>
@@ -23,6 +31,14 @@
     <servlet-mapping>
         <servlet-name>PopulateServlet</servlet-name>
         <url-pattern>/populate_servlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Collections</servlet-name>
+        <url-pattern>/collections</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Conditionals</servlet-name>
+        <url-pattern>/conditionals</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>

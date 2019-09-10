@@ -18,8 +18,8 @@
             <li><a href="simplebean.jsp">Simple BeanProperties</a></li>
             <li><a href="populate_servlet">Complex BeanProperties</a></li>
             <li><a href="bean_properties">BeanProperties Servlet</a></li>
-            <li><a href="">Collections Servlet</a></li>
-            <li><a href="">Conditionals Servlet</a></li>
+            <li><a href="collections">Collections Servlet</a></li>
+            <li><a href="conditionals">Conditionals Servlet</a></li>
             <li><a href="implict_object.jsp">Implicit-object JSP</a></li>
             <li><a href="operator.jsp">operators JSP</a></li>
             <li><a href="arithmaticOperation.jsp">arithmetic JSP</a></li>

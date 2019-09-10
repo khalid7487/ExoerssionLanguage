@@ -40,4 +40,15 @@ and open the template in the editor.
                 border-width: thin;
                 border-style: solid;
                 border-color: #000000;
-            }
+              }
+              .condition{
+                  
+                width: 250px;
+                height: 30px;
+                font-family:Arial;
+                font-size: 18px;
+                background-color: #FF1900;
+                border-width: thin;
+                border-style: solid;
+                border-color: #000000;
+              }
