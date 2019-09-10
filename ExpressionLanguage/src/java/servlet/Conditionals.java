@@ -22,6 +22,7 @@ public class Conditionals extends HttpServlet {
         SalesBean oranges=new SalesBean(-220.25, -49.57, 138.25, 12.25);
         request.setAttribute("apples", apples);
         request.setAttribute("oranges", oranges);
+        
         RequestDispatcher dispatcher=request.getRequestDispatcher("conditionals.jsp");
         dispatcher.forward(request, response);
     }

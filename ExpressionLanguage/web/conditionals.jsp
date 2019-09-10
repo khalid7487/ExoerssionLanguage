@@ -22,10 +22,30 @@
                 <td>Apples</td>
                 <td>Oranges</td>
             </tr>
-            <tr class="inputtext">
-                <td>First Quarter</td>
-                <td></td>
-                <td>Oranges</td>
+            <tr >
+                <td class="inputtext">First Quarter</td>
+                <td align="right">${apples.q1}</td>
+                <td align="right">${oranges.q1}</td>
+            </tr>
+            <tr >
+                <td class="inputtext">Second Quarter</td>
+                <td align="right">${apples.q2}</td>
+                <td align="right">${oranges.q2}</td>
+            </tr>
+            <tr >
+                <td class="inputtext" >Third Quarter</td>
+                <td align="right">${apples.q3}</td>
+                <td align="right">${oranges.q3}</td>
+            </tr>
+            <tr>
+                <td class="inputtext">Four Quarter</td>
+                <td align="right">${apples.q4}</td>
+                <td align="right">${oranges.q4}</td>
+            </tr>
+            <tr >
+                <td class="inputtext">Total</td>
+                <td align="right" bgcolor="${(apples.total<0) ? "RED" : "WHITE"}">${apples.total}</td>
+                <td align="right" bgcolor="${(oranges.total<0) ? "RED" : "WHITE"}">${oranges.total}</td>
             </tr>
         </table>
     </body>
